@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Carcemercado
-- 👀 I’m interested in Front-End technologies
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on UI crypto projects
-- 📫 How to reach me be sending me an email.
+- 👋 Hi, I’m @Carcemercado, and I'm working on improving my tool belt.
+- 👀 I’m interested in learning fullstack development.
+- 🌱 I’m currently learning MERN and LAMP technologies.
+- 💞️ I’m working on improving my skills by doing random projects with different technologies.
+- 📫 Send me an email if you want to reach me.
 
 <!---
 Carcemercado/Carcemercado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
