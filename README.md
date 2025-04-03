@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Carcemercado, and I'm working on improving my tool belt.
-- 👀 I’m interested in learning fullstack development.
-- 🌱 I’m currently learning MERN and LAMP technologies.
-- 💞️ I’m working on improving my skills by doing random projects with different technologies.
+- 👋 Hi, I’m @Carcemercado.
+- 👀 I’m interested in learning fullstack development with React.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m working on improving my skills in React by building projects.
 - 📫 Send me an email if you want to reach me.
 
 <!---
