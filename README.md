@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carcemercado.
-- 👀 I’m interested in learning fullstack development with React.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m working on improving my skills in React by building projects.
+- 👀 I’m working on improving my skillset from web design and frontend development to fullstack development.
+- 🌱 I’m currently learning MERN stack. I'm solidifying my MongoDB, Express, React, and Node knowledge.
+- 💞️ I love adventure and contributing to teamwork.
 - 📫 Send me an email if you want to reach me.
 
 <!---
